@@ -83,7 +83,7 @@ function Operations() {
 
   return (
     <div className="min-h-screen bg-[#222831] text-[#EEEEEE] p-6 flex flex-col items-center gap-6 transition-all">
-      <h1 className="text-3xl font-bold text-[#00ADB5]">To-Do List Web App by Hansraj</h1>
+      <h1 className="text-3xl font-bold text-[#00ADB5]">NOTED</h1>
 
       <form
         onSubmit={handleSubmit}
